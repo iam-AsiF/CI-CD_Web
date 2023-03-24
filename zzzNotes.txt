@@ -1,0 +1,17 @@
+##Gradle terminal command:
+
+    ~ clean cache -
+                ./gradlew clean
+
+    ~ run suite -
+            ./gradlew (testName) -DType=(testValue)
+            example - ./gradlew webTest -DType=parallelTest
+
+
+ArrayList:
+
+mouseHover:
+
+Dropdown:
+
+add variable to xpath:
